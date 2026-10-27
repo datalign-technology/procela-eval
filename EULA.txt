@@ -1,19 +1,15 @@
 PROCELA EVALUATION LICENSE AGREEMENT
 ====================================
 
-DRAFT — complete the bracketed fields ([ ... ]) and have legal counsel review
-and finalize this agreement before distributing the Software to anyone. This
-text is a starting point, not legal advice.
-
 IMPORTANT — READ CAREFULLY. This Evaluation License Agreement ("Agreement") is
 a legal agreement between you, or the entity you represent ("You"), and
-[LICENSOR LEGAL NAME] ("Licensor") for the Procela software and related
+Datalign Technology LLC (d/b/a Procela) ("Licensor") for the Procela software and related
 materials made available for evaluation (the "Software"). BY INSTALLING,
 COPYING, RUNNING, OR OTHERWISE USING THE SOFTWARE, YOU AGREE TO BE BOUND BY
 THIS AGREEMENT. IF YOU DO NOT AGREE, DO NOT INSTALL OR USE THE SOFTWARE.
 
 1. DEFINITIONS
-   "Evaluation Period" means the period of [30] days beginning on the date You
+   "Evaluation Period" means the period of 90 days beginning on the date You
    first install or run the Software, unless extended in writing by Licensor.
    "Documentation" means any user guides or materials Licensor provides with
    the Software.
@@ -86,7 +82,7 @@ THIS AGREEMENT. IF YOU DO NOT AGREE, DO NOT INSTALL OR USE THE SOFTWARE.
     INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES, OR FOR
     LOST PROFITS, REVENUE, OR DATA, ARISING OUT OF OR RELATED TO THIS AGREEMENT
     OR THE SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY. LICENSOR'S TOTAL
-    AGGREGATE LIABILITY UNDER THIS AGREEMENT WILL NOT EXCEED [USD $100]. BECAUSE
+    AGGREGATE LIABILITY UNDER THIS AGREEMENT WILL NOT EXCEED USD $100. BECAUSE
     THE SOFTWARE IS PROVIDED AT NO CHARGE FOR EVALUATION, THESE LIMITATIONS ARE
     A FUNDAMENTAL BASIS OF THE BARGAIN.
 
@@ -101,9 +97,10 @@ THIS AGREEMENT. IF YOU DO NOT AGREE, DO NOT INSTALL OR USE THE SOFTWARE.
     shall not export, re-export, or use the Software in violation of them.
 
 13. GOVERNING LAW; VENUE
-    This Agreement is governed by the laws of [GOVERNING-LAW JURISDICTION],
-    without regard to conflict-of-laws rules. The exclusive venue for disputes
-    is [VENUE], and You consent to its jurisdiction.
+    This Agreement is governed by the laws of the State of Florida, United
+    States, without regard to conflict-of-laws rules. The exclusive venue for
+    disputes is the state and federal courts located in Seminole County, Florida,
+    and You consent to its jurisdiction.
 
 14. ENTIRE AGREEMENT
     This Agreement is the entire agreement between the parties regarding the
@@ -111,4 +108,4 @@ THIS AGREEMENT. IF YOU DO NOT AGREE, DO NOT INSTALL OR USE THE SOFTWARE.
     understandings on that subject. Any amendment must be in a writing signed by
     Licensor.
 
-Contact: [LICENSOR LEGAL NAME], [LICENSOR CONTACT EMAIL]
+Contact: Datalign Technology LLC (d/b/a Procela), legal@procela.ai
